@@ -1,0 +1,6 @@
+$(function(){
+
+    var loginform=$("#loginform");
+
+
+})

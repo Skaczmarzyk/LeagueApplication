@@ -1,0 +1,63 @@
+.rightSplash{
+    horiz-align: right;
+    float: right;
+}
+#hold{
+    width: 100%;
+    margin: 0px auto;
+}
+#menu{
+    float: left;
+    width:100%;
+    margin-left:0px;
+    margin-right:0px;
+    padding-left:0px;
+    padding-right:0px;
+}
+#champion1stats{
+    float: left;
+    width:50%;
+    margin-left:0px;
+    margin-right:0px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.innerHold1{
+    float: left;
+    width:20%;
+    height: 90%;
+    margin-left:0px;
+    margin-right:0px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.innerHold2{
+    float: left;
+    width:35%;
+    height: 90%;
+    margin-left:0px;
+    margin-right:0px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.innerHold3{
+    float: right;
+    width:35%;
+    height: 90%;
+    margin-left:0px;
+    margin-right:0px;
+    padding-left:0px;
+    padding-right:0px;
+}
+.inner{
+    margin:0px;
+}
+.col1{
+    margin-right:10px;
+}
+.col2{
+    margin-right:10px;
+}
+.clear{
+    clear:both;
+}
